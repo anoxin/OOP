@@ -1,0 +1,2 @@
+Anton, Anokhin, 30, myNick, [89303441223], [my@mail.ru, my@yandex.ru], [https://vk.com/my, https://vk.com/my2], [г. Москва ул. Федора Полетаева]
+Artem, Sokolov, 30, myNick, [89303441223, 894544233322], [my@mail.ru, my@yandex.ru], [https://vk.com/my, https://vk.com/my2], [г. Москва ул. рязанский проспект]
